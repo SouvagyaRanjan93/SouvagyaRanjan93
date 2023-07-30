@@ -18,8 +18,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/souvagya ranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="souvagya ranjan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/souvagya ranjan mohanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="souvagya ranjan mohanta" height="30" width="40" /></a>
-<a href="https://fb.com/souvagyaranjan mohanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="souvagyaranjan mohanta" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/souvagya ranjan mohanta" target="blank"><img align="center" src="https://www.linkedin.com/in/contactsouvagya-ranjan-mohanta/" alt="souvagya ranjan mohanta" height="30" width="40" /></a>
+<a href="https://fb.com/souvagyaranjan mohanta" target="blank"><img align="center" src="https://www.facebook.com/souvagyaranjan.mohanta" alt="souvagyaranjan mohanta" height="30" width="40" /></a>
 <a href="https://instagram.com/thesouvagyaranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thesouvagyaranjan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ranjansouvagya2016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ranjansouvagya2016" height="30" width="40" /></a>
 </p>
